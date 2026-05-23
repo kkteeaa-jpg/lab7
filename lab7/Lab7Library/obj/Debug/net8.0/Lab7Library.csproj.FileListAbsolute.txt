@@ -1,0 +1,11 @@
+C:\Users\Katya\OneDrive\Документы\кпі\lab7\Lab7Library\bin\Debug\net8.0\Lab7Library.deps.json
+C:\Users\Katya\OneDrive\Документы\кпі\lab7\Lab7Library\bin\Debug\net8.0\Lab7Library.dll
+C:\Users\Katya\OneDrive\Документы\кпі\lab7\Lab7Library\bin\Debug\net8.0\Lab7Library.pdb
+C:\Users\Katya\OneDrive\Документы\кпі\lab7\Lab7Library\obj\Debug\net8.0\Lab7Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katya\OneDrive\Документы\кпі\lab7\Lab7Library\obj\Debug\net8.0\Lab7Library.AssemblyInfoInputs.cache
+C:\Users\Katya\OneDrive\Документы\кпі\lab7\Lab7Library\obj\Debug\net8.0\Lab7Library.AssemblyInfo.cs
+C:\Users\Katya\OneDrive\Документы\кпі\lab7\Lab7Library\obj\Debug\net8.0\Lab7Library.csproj.CoreCompileInputs.cache
+C:\Users\Katya\OneDrive\Документы\кпі\lab7\Lab7Library\obj\Debug\net8.0\Lab7Library.dll
+C:\Users\Katya\OneDrive\Документы\кпі\lab7\Lab7Library\obj\Debug\net8.0\refint\Lab7Library.dll
+C:\Users\Katya\OneDrive\Документы\кпі\lab7\Lab7Library\obj\Debug\net8.0\Lab7Library.pdb
+C:\Users\Katya\OneDrive\Документы\кпі\lab7\Lab7Library\obj\Debug\net8.0\ref\Lab7Library.dll
